@@ -1,2 +1,2 @@
-clang++ -std=gnu++11 main.cpp && ./a.out
+clang++ -std=gnu++14 main.cpp && ./a.out
 
